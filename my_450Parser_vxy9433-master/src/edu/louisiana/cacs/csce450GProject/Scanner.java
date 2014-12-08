@@ -1,10 +1,10 @@
-package edu.louisiana.cacs.csce450Project;
+package edu.louisiana.cacs.csce450GProject;
 
 import java.io.FileReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.*;
-import java.lang.Character;
+//import java.lang.Character;
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates

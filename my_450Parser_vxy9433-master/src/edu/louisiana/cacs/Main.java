@@ -1,6 +1,6 @@
 package edu.louisiana.cacs;
 
-import edu.louisiana.cacs.csce450Project.Parser;
+import edu.louisiana.cacs.csce450GProject.Parser;
 
 public class Main{
     public static void main(String[] args){
